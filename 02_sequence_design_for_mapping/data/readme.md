@@ -1,3 +1,3 @@
 The raw data for the MSE sequence acquired from the portable scanner can be downloaded from [here](https://upvedues-my.sharepoint.com/personal/joalgui2_upv_edu_es/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjoalgui2%5Fupv%5Fedu%5Fes%2FDocuments%2FDocumentos%2FCongresos%2F2024%2F2024%20%2D%20ESMRMB%2FEducational%2FRawData%20for%20MSE%20images%2Erar&parent=%2Fpersonal%2Fjoalgui2%5Fupv%5Fedu%5Fes%2FDocuments%2FDocumentos%2FCongresos%2F2024%2F2024%20%2D%20ESMRMB%2FEducational&ga=1). Many thanks to Dr. José Miguel Algarín Guisado for data acquisition!     
 The `readdata.m` script is used to load the raw data and tables of the MSE sequence.    
-The `IR_SE_TI200_400_1600.mat` is the raw data of the IR SE sequence.
+The `IR_SE_TI200_400_1600.mat` is the raw data obtained with the IR SE sequence.
