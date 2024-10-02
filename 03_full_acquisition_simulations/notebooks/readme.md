@@ -2,7 +2,7 @@
 
 https://colab.research.google.com/drive/13LKdmBvw6TKkhoDb-gfmouEFfRRe2G29
 
-# More Notebooks in teh MR-zero playground
+# More Notebooks in the MR-zero playground
 
 https://mrzero-core.readthedocs.io/en/latest/playground_mr0/overview.html
 
