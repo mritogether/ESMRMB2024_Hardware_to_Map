@@ -1,5 +1,5 @@
 # Sequences for the *Pulseq sequence hands-on* lecture
-* Note: the notebook filename with suffix "_ex" is for hands-on exercise, and with  suffix "_sol" is the corresponding solution.   
+* Note: the notebook filename with suffix "_ex" is for the hands-on exercise, and with suffix "_sol" is the corresponding solution.   
 The purpose of the *Pulseq sequence hands-on* lecture is to build a time-optimized spin-echo (SE) sequence.         
 
 The intermediate steps for the hands-on exercise:
