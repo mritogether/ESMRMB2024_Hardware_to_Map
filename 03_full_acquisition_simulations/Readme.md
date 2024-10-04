@@ -17,9 +17,12 @@ Moderators: Joseba Alonso – Julia Pfitzer
 ## Documentation and Code of simulation 
 https://mrzero-core.readthedocs.io/
 
-# More Colab / Jupyter Notebooks
+## More Colab / Jupyter Notebooks
 https://mrzero-core.readthedocs.io/en/latest/playground_mr0/overview.html
 
+**Optimizable PyPulseq**
+
+https://github.com/pulseq-frame/pulseq-zero
 
 
 
