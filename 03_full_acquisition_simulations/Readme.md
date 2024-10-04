@@ -14,6 +14,13 @@ Moderators: Joseba Alonso – Julia Pfitzer
 
 16:30 – 17:00, Hands-on — Digital Twin of low-field scanner, Moritz Zaiss, FAU
 
+## Documentation and Code of simulation 
+https://mrzero-core.readthedocs.io/
+
+# More Colab / Jupyter Notebooks
+https://mrzero-core.readthedocs.io/en/latest/playground_mr0/overview.html
+
+
 
 
 ### MaRCoS system optimized 3D MTSE + MR-zero simulation (PDG)
