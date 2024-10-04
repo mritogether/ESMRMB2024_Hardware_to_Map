@@ -64,6 +64,48 @@ The MR simulation requires four ingredients:
 * reshape signal to k-sapce
 * fft3
 * 
+#Exercises or Games - Explore Simulation:
+
+add noise
+lower flip angles
+remove spoilers
+change 90s TE2 -> phase
+switch onoff gradients
+
+phantom:
+increase B0 and B1 inhom
+T1 to inf -> decay
+single point -> psf analysis
+
+potential:
+traps opt in pulseq zero
+recon as bloch model / learning
+
+# Setup of Simulation
+*  Load pulseq sequence from Freiburg
+*  Design a realistic low field phantom
+*  Load the phantom and simulate
+*  Speedup: Reduce 3D dim of sequence
+*  Speedup: Reduce the size of the phantom
+
+* **Alter sequence**
+  * FA 60 - 120
+  *  spoiler too weak?
+  *  timing wrong?
+  *  phase investigations
+* **Alter phantom**: only in simulation
+  *  B1 influence on T2 decay
+  *  T1 influence on T2 decay
+  *  Diffusion affects T2 decay
+
+# Limitation of simulation
+* only instantanoues on-resonant pulses
+* for shaped / offres pulses:
+  * use Pulseq Bloch Sim in Matlab
+  * or python code of Tony Stöcker:
+https://github.com/pulseq/MR-Physics-with-Pulseq/tree/main/tutorials/02_rf_pulses/notebooks
+
+
 
 
 
