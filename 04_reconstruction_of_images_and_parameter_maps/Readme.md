@@ -38,7 +38,8 @@ For local execution at home, the following are required:
 
 - Python3 (with the required packages as listed in [`requirements.txt`](notebooks/requirements.txt))
 - [Jupyter Notebook](https://jupyter.org/)
-- [BART](https://mrirecon.github.io/bart/)
+- [BART](https://mrirecon.github.io/bart/) (latest version from the Github 'master' branch!)
+- For Microsoft Windows, WSL2 is required as described [here](https://mrirecon.github.io/bart/installation_windows.html)
 
 ---
 
