@@ -6,13 +6,13 @@ Welcome to the repository for the Workshop _Educational Track 2 (ET2): Reconstru
 
 ## Description
 
-This repository contains [exercise](...) and [solution](...) notebooks for reconstructing a T2 parameter map using a low-field MRI scanner. This workshop concludes an educational track on obtaining a parameter map: from hardware setup to sequence development, simulation, and finally reconstruction.
+This repository contains [exercise](https://github.com/mritogether/ESMRMB2024_Hardware_to_Map/blob/main/04_reconstruction_of_images_and_parameter_maps/notebooks/04_reconstruction_exercise.ipynb) and [solution](https://github.com/mritogether/ESMRMB2024_Hardware_to_Map/blob/main/04_reconstruction_of_images_and_parameter_maps/notebooks/04_reconstruction_solutions.ipynb) notebooks for reconstructing a T2 parameter map using a low-field MRI scanner. This workshop concludes an educational track on obtaining a parameter map: from hardware setup to sequence development, simulation, and finally reconstruction.
 
 ---
 
 You can find more information on the data format and hardware in the following links:
 
-- [Imaging with a Portable Scanner ](https://github.com/mritogether/ESMRMB2024_Hardware_to_Map/tree/main/01_imaging_with_a_portable_scanner)
+- [Imaging with a Portable Scanner](https://github.com/mritogether/ESMRMB2024_Hardware_to_Map/tree/main/01_imaging_with_a_portable_scanner)
 
 - [Sequence Design for Mapping](https://github.com/mritogether/ESMRMB2024_Hardware_to_Map/tree/main/02_sequence_design_for_mapping)
 
@@ -30,7 +30,7 @@ You can find more information on the data format and hardware in the following l
 
 We recommend using Google Colab to run the notebook during the course (_a Google Account and an active internet connection are required_).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](<!-- Link soon -->)
+You can find the notebooks in the [notebooks](https://github.com/mritogether/ESMRMB2024_Hardware_to_Map/tree/main/04_reconstruction_of_images_and_parameter_maps/notebooks) folder.
 
 ### Local
 
